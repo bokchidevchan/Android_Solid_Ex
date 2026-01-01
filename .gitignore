@@ -15,3 +15,10 @@
 .idea/
 local.properties
 *.md
+
+# Module build directories
+data/build/
+domain/build/
+
+# Claude Code config
+.claude/

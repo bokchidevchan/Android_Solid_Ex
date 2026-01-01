@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Solid_Ex"
 include(":app")
+include(":domain")
+include(":data")
